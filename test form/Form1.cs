@@ -27,6 +27,7 @@ namespace test_form
 
         private void button1_Click(object sender, EventArgs e)
         {
+            int x = 1;
             Console.WriteLine("HIIIIII");
         }
     }
