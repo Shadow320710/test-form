@@ -28,5 +28,10 @@ namespace test_form
         {
             
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
